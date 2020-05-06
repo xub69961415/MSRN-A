@@ -1,2 +1,2 @@
 # MSRN-A
-Hyperspectral image classification based on multi-scale residual network with attention mechanism
+Attention-based multi-scale residual network for hyperspectral image classification
